@@ -1,0 +1,64 @@
+#anasayfa{
+  margin-top: 25px;
+}
+
+h1{
+  color: rgb(196, 16, 16);
+  text-align: center;
+}
+h2{
+  color: rgb(157, 65, 244);
+  text-align: center;
+  
+}
+h4{
+  text-align: center;
+  color: rgb(193, 138, 10);
+  margin-top: 25px;
+}
+
+.hakkımızda {
+  text-align:left;
+  padding-left: 25px;
+}
+.başlık ul{
+  list-style-type: none;
+  display:flex;
+justify-content: center;
+padding-right:50px;
+}
+.başlık ul li{
+  padding-left: 10px;
+}
+.anasayfa ul{
+  list-style-position: inside;
+  text-align:center;
+
+}
+
+.anasayfa ul li{
+font-size: 20px;
+padding: 5px;
+
+}
+.ürünler ul{
+  display: block;
+  text-align: center;
+}
+.ürünler ul li{
+  padding-top: 50px;
+  list-style-type: none;
+}
+.açıklama1{
+  text-align: center;
+}
+img{
+  width: 200px;
+  height: 200px;
+}
+span{
+  font-weight:1000;
+}
+.hakkımızda h4{
+  text-align: left;
+}
